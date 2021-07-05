@@ -4,7 +4,7 @@ There are lot of tips and tricks that might be useful for beginners.
 
 ## Getting Started
 
-The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application.Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
+The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application. Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
 
 A few resources to get you started if this is your first WordPress project:
 
