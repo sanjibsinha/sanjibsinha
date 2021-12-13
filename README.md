@@ -1,4 +1,4 @@
-# I share my learning experience on Flutter, Dart, WordPress and PHP in - [https://sanjibsinha.com](https://sanjibsinha.com)
+# I share my learning experience on Flutter, Dart, and Algorithm in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
 
