@@ -11,7 +11,7 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 
 ## Get the necessary Guide
 
-- [Flutter Artisan](https://leanpub.com/flutter-artisan)
+
 - [Beginning Flutter with Dart](https://leanpub.com/beginningflutterwithdart)
 - [Better Flutter](https://leanpub.com/betterflutter)
 - [State in Flutter](https://leanpub.com/stateinflutter)
