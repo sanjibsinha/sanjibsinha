@@ -9,6 +9,15 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 - [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
 
 
+## Have you not coded before?
+Well, we have a commonness. We all started, as non-coders who had not coded before.
+In that case, you may read these Books to build Flutter App from scratch.
+### In English
+- [Elementary Dart and Flutter for Beginners](https://leanpub.com/elementarydartandflutterforbeginners)
+### In French
+- [Dart et Flutter pour les Débutants](https://leanpub.com/dartetflutterpourlesdbutants)
+
+
 ## Get the necessary Guide
 
 
