@@ -1,5 +1,8 @@
 # I share my learning experience on Flutter, Dart, and Algorithm in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
+![Beginner](https://user-images.githubusercontent.com/3192445/156914934-6ae6b514-3a3f-4a48-af30-7c06a223d8fb.jpg)
+
+
 There are lot of tips and tricks that might be useful for beginners. 
 
 ## Getting Started
