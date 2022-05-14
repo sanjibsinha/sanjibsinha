@@ -2,6 +2,10 @@
 
 There are lot of tips and tricks that might be useful for beginners. 
 
+# I also share my learning experience on Python, Data Science, Web, Automation, Machine Learning, and AI in - [https://python.sanjibsinha.com](https://python.sanjibsinha.com)
+
+There are lot of tips and tricks that might be useful for beginners. 
+
 ## Getting Started
 
 The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application. Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
