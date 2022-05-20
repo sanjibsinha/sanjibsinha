@@ -2,7 +2,7 @@
 
 There are lot of tips and tricks that might be useful for beginners. 
 
-# I also share my learning experience on Python, Data Science, Web, Automation, Machine Learning, and AI in - [https://python.sanjibsinha.com](https://python.sanjibsinha.com)
+# I also share my learning experience on Python, Data Science, Web, Automation, Machine Learning, and AI in - [https://sinhasanjib.com](https://sinhasanjib.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
 
