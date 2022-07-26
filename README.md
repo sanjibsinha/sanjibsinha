@@ -2,7 +2,7 @@
 
 There are lot of tips and tricks that might be useful for beginners. 
 
-# I also share my learning experience on Tensorflow, Python, Machine Learning, Data Science and Artificial Intelligence in - [https://sinhasanjib.com](https://sinhasanjib.com)
+# I also share my learning experience on Tensorflow, Python, Machine Learning, Data Science and Artificial Intelligence in - [https://io.sanjibsinha.com](https://io.sanjibsinha.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
 
