@@ -1,8 +1,6 @@
-# I share my learning experience on Flutter, Dart, and Algorithm in - [https://sanjibsinha.com](https://sanjibsinha.com)
+# I share my learning experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
-
-# I also share my learning experience on Tensorflow, Python, Machine Learning, Data Science and Artificial Intelligence in - [https://io.sanjibsinha.com](https://io.sanjibsinha.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
 
