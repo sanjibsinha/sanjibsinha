@@ -2,7 +2,6 @@
 
 There are lot of tips and tricks that might be useful for beginners. 
 
-There are lot of tips and tricks that might be useful for beginners. 
 
 ## Getting Started
 
