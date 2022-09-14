@@ -1,3 +1,5 @@
+# I am not like those video-maker-developers who make money by modifying Open Source Code and keep them in Private Repositories. Yes, I modify open source code and try to teach the beginners in a simplest possible way. If you want me to 
+
 # I share my learning experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
 There are lot of tips and tricks that might be useful for beginners. 
