@@ -1,6 +1,9 @@
-# I share my learning experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
+# I know that I know nothing - Socrates
 
-There are lot of tips and tricks that might be useful for beginners. 
+
+## With reference to the above quote, I'm trying to share my little learning experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
+
+There are lot of tips and tricks that might be useful for beginners. And I consider myself as a Beginner.
 
 
 ## Getting Started
