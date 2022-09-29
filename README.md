@@ -1,10 +1,9 @@
 # I know that I know nothing - Socrates
 
 
-## With reference to the above quote, I'm trying to share my little learning experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
+## With reference to the above quote by a person whom I greatly admire, I'm trying to share my little-learning-experience on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com)
 
-There are lot of tips and tricks that might be useful for beginners. And I consider myself as a Beginner.
-
+I hope, there are lot of tips and tricks that might be useful for Beginners. 
 
 ## Getting Started
 
