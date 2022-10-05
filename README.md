@@ -3,7 +3,9 @@
 
 ## I greatly admire old Philosophers. Keeping Socrates in mind, I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++ amd Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
 
-I hope, there are lot of tips and tricks that might be useful for Beginners. 
+It will sound audacious and in contradiction with my belief if I say that I want to help beginners. I'd like to say, there are lot of tips and tricks that might be useful for Beginners. 
+
+However, that might not come out true. If you don't find them useful, just forget and forgive.
 
 ## Getting Started
 
