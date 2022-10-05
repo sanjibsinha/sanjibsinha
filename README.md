@@ -1,7 +1,7 @@
 # I know that I know nothing - Socrates
 
 
-## I greatly admire old Greek Philosophers. Keeping Socrates in mind, I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++ amd Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
+## I greatly admire old Philosophers. Keeping Socrates in mind, I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++ amd Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
 
 I hope, there are lot of tips and tricks that might be useful for Beginners. 
 
