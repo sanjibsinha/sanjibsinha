@@ -1,5 +1,7 @@
 # I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++ amd Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
 
+## How about falling in love with learning something new and solve the problems! :)
+
 There are lot of tips and tricks that might be useful for Beginners. 
 
 ## Getting Started
