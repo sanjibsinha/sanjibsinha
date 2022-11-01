@@ -1,4 +1,4 @@
-# I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++ amd Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
+# I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++, Java and Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
 
 ## Let's fall in love with learning and solve a few problems! :)
 
