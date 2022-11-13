@@ -1,6 +1,6 @@
 # I'm trying to share my little-learning-experiences on Flutter, Dart, Tensorflow, Python, Machine Learning, and Data Science in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++, Java and Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
 
-## Fallen in love with learning and it heals! At least it makes you adjust with inequality around and it's good for my eye-pressure. :)
+## Fallen in love with learning and it heals! At least it makes you adjust with all kinds of inequalities around and it's good for my eye-pressure too. :)
 
 There are lot of tips and tricks that might be useful for Beginners. 
 
