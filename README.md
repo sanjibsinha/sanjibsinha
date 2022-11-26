@@ -11,7 +11,10 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 
 
 ## Have you not coded before?
-Well, we have a commonness. We all started, as non-coders who had not coded before.
+Well, we have a commonness. We all started, as non-coders who had not coded before. The website - [https://sinhasanjib.com](https://sinhasanjib.com) is another project that deals with very beginning staff.
+You will get an initial ideas on programming. You may also learn languages like C, C++ or Java.
+
+## Do you want to build a mobile application?
 In that case, you may read these Books to build Flutter App from scratch.
 ### In English
 - [Elementary Dart and Flutter for Beginners](https://leanpub.com/elementarydartandflutterforbeginners)
