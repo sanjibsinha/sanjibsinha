@@ -11,8 +11,12 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 
 
 ## Have you not coded before?
-Well, we have a commonness. We all started, as non-coders who had not coded before. The website - [https://sinhasanjib.com](https://sinhasanjib.com) is another project that deals with very beginning staff.
-You will get an initial ideas on programming. You may also learn languages like C, C++ or Java.
+Well, we have a commonness. 
+Why Do we?
+It's because we all started, as non-coders who had not coded before. 
+As a result, I thought tThe website - [https://sinhasanjib.com](https://sinhasanjib.com) might be another project that deals with very beginning staff.
+You will get an initial ideas on programming. 
+You may also learn languages like C, C++ or Java.
 
 ## Do you want to build a mobile application?
 In that case, you may read these Books to build Flutter App from scratch.
