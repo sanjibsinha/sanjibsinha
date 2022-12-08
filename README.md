@@ -1,4 +1,4 @@
-# I'm trying to share my little-learning-experiences on Python, Machine Learning, Data Science, Tensorflow, Flutter, abd Dart in - [https://sanjibsinha.com](https://sanjibsinha.com), and on C, C++, Java and Game Development in - [https://sinhasanjib.com](https://sinhasanjib.com).
+# I'm trying to share my little-learning-experiences on Python, Machine Learning, Data Science, Tensorflow, Flutter, Java, JavaScript, Dart and Web Development in - [https://sanjibsinha.com](https://sanjibsinha.com).
 
 ## Fallen in love with learning and it heals! 
 There are lot of tips and tricks that might be useful for Beginners. 
