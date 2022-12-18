@@ -21,8 +21,7 @@ You will get an initial ideas on programming. If you like you may also learn lan
 In that case, you may read these Books to build Flutter App from scratch.
 ### In English
 - [Elementary Dart and Flutter for Beginners](https://leanpub.com/elementarydartandflutterforbeginners)
-### In French
-- [Dart et Flutter pour les Débutants](https://leanpub.com/dartetflutterpourlesdbutants)
+
 
 
 ## Get the necessary Guide
