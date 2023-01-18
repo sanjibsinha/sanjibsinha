@@ -9,6 +9,7 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 
 - [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
 
+## And, of course, there is another - The website - [https://sinhasanjib.com](https://sinhasanjib.com) was born out of my impetuous passion for Language. Not any programming or machine language, but human or natural language. 
 
 ## Have you not coded before?
 Well, we have a commonness. 
