@@ -9,13 +9,13 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 
 - [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
 
-## And, of course, there is another - The website - [https://sinhasanjib.com](https://sinhasanjib.com) was born out of my impetuous passion for Language. Not any programming or machine language, but human or natural language. 
+## And, of course, there is another - The website - [https://sinhasanjib.com](https://sinhasanjib.com) was born out of my impetuous passion for Language. Not any programming or machine language this time, but human or natural language. 
 
 ## Have you not coded before?
 Well, we have a commonness. 
 It's because at one point we all started as non-coders who had not coded before. 
 As a result, I thought tThe website - [https://sinhasanjib.com](https://sinhasanjib.com) might be another project that deals with very beginning staff.
-You will get an initial ideas on programming. 
+You will get an initial ideas on how we use natural languages, the similar patterns in Grammar and many more. 
 ## Do you want to build a mobile application?
 In that case, you may read these Books to build Flutter App from scratch.
 ### In English
