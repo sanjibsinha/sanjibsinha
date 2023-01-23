@@ -1,4 +1,4 @@
-# I'm trying to share my little-no-nothing-experiences on many-things-that-I-don't-want-to-know in - [https://sanjibsinha.com](https://sanjibsinha.com).
+# I'm trying to share my little-know-nothing-experiences on many-things-that-I-don't-want-to-know in - [https://sanjibsinha.com](https://sanjibsinha.com).
 
 ## Fallen in love with learning is a strange and stressful disease that at the same time heals and kills! You learn from somewher and keep learning somewhere else and again this infinity loop continues till death!!!
 ### Why? I'm going to explain in a very short sentence which will not take more than 24 words. 
