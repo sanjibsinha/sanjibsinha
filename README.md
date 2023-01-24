@@ -1,18 +1,8 @@
-# I'm trying to share my little-know-nothing-experiences on many-things-that-I-don't-want-to-know in - [https://sanjibsinha.com](https://sanjibsinha.com).
-
-## Fallen in love with learning is a strange and stressful disease that at the same time heals and kills! You learn from somewher and keep learning somewhere else and again this infinity loop continues till death!!!
-### Why? I'm going to explain in a very short sentence which will not take more than 24 words. 
-There are lot of tips and tricks that might be useful for Beginners, not for intermdiate and advanced professionals; however, you will definitely find them elsewhere :). 
-## Internet is a free place where everyone should be able to staff thier "Lingos" wherever they could because internet has a humongous ass that knows how to fart diligently. Why? You know probably. That is an Art of not taking yourself seriously.
-### So keep going...
-
 ## Getting Started
 
 The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application. Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
 
 - [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
-
-## And, of course, there is another - The website - [https://sinhasanjib.com](https://sinhasanjib.com) was born out of my impetuous passion for Language. Not any programming or machine language this time, but human or natural language. 
 
 ## Have you not coded before?
 Well, we have a commonness. 
