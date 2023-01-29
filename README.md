@@ -14,16 +14,12 @@ In that case, you may read these Books to build Flutter App from scratch.
 ### In English
 - [Elementary Dart and Flutter for Beginners](https://leanpub.com/elementarydartandflutterforbeginners)
 
-
-
 ## Get the necessary Guide
-
 
 - [Beginning Flutter with Dart](https://leanpub.com/beginningflutterwithdart)
 - [Better Flutter](https://leanpub.com/betterflutter)
 - [State in Flutter](https://leanpub.com/stateinflutter)
 - [A Complete Flutter Guide: From Beginners to Advanced](https://leanpub.com/b/acompleteflutterguidefrombeginnerstoadvanced)
-
 
 ## Getting Started
 
