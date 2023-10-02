@@ -2,7 +2,8 @@
 
 The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application. Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
 
-- [Lab: Read the Latest Updated Articles on Flutter Tool Kit](https://sanjibsinha.com/category/flutter)
+### Now It deals with the Ethical parts of AI and casts its critical glance at Human Sexuality and Relationship
+#### Don't forget to check it out.
 
 ## Have you not coded before?
 Well, we have a commonness. 
