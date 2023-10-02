@@ -7,7 +7,7 @@ The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, w
 ## Have you not coded before?
 Well, we have a commonness. 
 It's because at one point we all started as non-coders who had not coded before. 
-As a result, I thought tThe website - [https://sinhasanjib.com](https://sinhasanjib.com) might be another project that deals with very beginning staff.
+As a result, I thought tThe website - [(https://thankuai.net)](https://thankuai.net) might be another project that deals with very beginning staff.
 You will get an initial ideas on how we use natural languages, the similar patterns in Grammar and many more. 
 ## Do you want to build a mobile application?
 In that case, you may read these Books to build Flutter App from scratch.
