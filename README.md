@@ -1,17 +1,14 @@
-## Getting Started
+# My Every Book is now Available in YouTube 
 
-The website - [https://sanjibsinha.com](https://sanjibsinha.com) is a project, which is a starting point for a WordPress application. Any beginner may use the code repository to learn how one can develop a WordPress web application from scratch.
+[(https://youtube.com/@aicomputerschool)](https://youtube.com/@aicomputerschool)
 
-### Now It deals with the Ethical parts of AI and casts its critical glance at Human Sexuality and Relationship
-#### Don't forget to check it out.
+## My Leanpub Books
 
-## Have you not coded before?
-Well, we have a commonness. 
-It's because at one point we all started as non-coders who had not coded before. 
-As a result, I thought tThe website - [(https://thankuai.net)](https://thankuai.net) might be another project that deals with very beginning staff.
-You will get an initial ideas on how we use natural languages, the similar patterns in Grammar and many more. 
+[(https://leanpub.com/u/sanjibsinha)](https://leanpub.com/u/sanjibsinha)
+
 ## Do you want to build a mobile application?
 In that case, you may read these Books to build Flutter App from scratch.
+
 ### In English
 - [Elementary Dart and Flutter for Beginners](https://leanpub.com/elementarydartandflutterforbeginners)
 
