@@ -1,6 +1,6 @@
 # My Every Book is now Available in YouTube 
 
-[(https://youtube.com/@aicomputerschool)](https://youtube.com/@aicomputerschool)
+[(https://youtube.com/@aicodeschool)](https://youtube.com/@aicodeschool)
 
 ## My Leanpub Books
 
