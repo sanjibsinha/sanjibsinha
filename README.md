@@ -1,10 +1,10 @@
 # I know Nothing. 
 
-## My Every Book is now Available in YouTube 
+## My experiments with AI is now Available in YouTube 
 
 [(https://youtube.com/@aicodeschool)](https://youtube.com/@aicodeschool)
 
-## My Leanpub Books
+## My Leanpub Books which I wrote a decade ago when I was not born ;)
 
 [(https://leanpub.com/u/sanjibsinha)](https://leanpub.com/u/sanjibsinha)
 
