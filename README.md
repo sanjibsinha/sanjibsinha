@@ -2,7 +2,7 @@
 
 ## My experiments with AI is now Available in YouTube 
 
-[(https://youtube.com/@sanjibdebsinha)](https://youtube.com/@sanjibdebsinha)
+[(https://youtube.com/@sanjibdebsinha)](https://youtube.com/@aiandlinux)
 
 ## My Leanpub Books which I wrote a decade ago when I was not born ;)
 
